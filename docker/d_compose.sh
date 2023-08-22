@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker compose -p clab-infra -f docker-compose.yml up -d
+docker compose -f docker-compose.yml up -d
